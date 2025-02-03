@@ -62,7 +62,6 @@ Our project is an event ticketing software that allows event organizers to easil
 - Justin Drenka
 - Maximilian Bigwood
 - Kussh Satija
-- Dominick Pasutto
   
 ## Built Using
 - Node.js
